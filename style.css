@@ -1,0 +1,137 @@
+html{
+    background-image: url(image.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    
+    
+
+}
+.youtube{
+    background-color: rgb(200, 0, 0);
+    color: white;
+    border: none;
+    height: 36px;
+    width: 105px;
+    border-radius: 2px;
+    font-size: 15px;
+    cursor: pointer;
+
+}
+.join{
+    background-color: white;
+    color: rgb(41, 118, 211);
+    border-color:  rgb(41, 118, 211);
+    border: solid;
+    border-width: 1px;
+    height: 36px;
+    width: 62px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+.tweet{
+    background-color: rgb(2,158,255);
+    color: white;
+    border: none;
+    height: 36px;
+    width: 70px;
+    border-radius: 18px;
+    font-weight: bold;
+    font-size: 15px;
+
+}
+.uber{
+    color: white;
+    background-color: black;
+    height: 36px;
+    width: 120px;
+    font-size: 15px;
+    cursor: pointer;
+    margin-right: 8px;
+}
+.amazon{
+    color: black;
+    background-color: rgb(255, 216, 20);
+    height: 36px;
+    width: 160px;
+    font-size: 15px;
+    border-radius: 18px;
+    border: none;
+    cursor: pointer;
+}
+.github{
+    color: white;
+    background-color: rgb(46, 164,79);
+    height: 36px;
+    width: 85px;
+    font-size: 15px;
+    border: none;
+    border-radius: 8px;
+    margin-left: 8px;
+    cursor: pointer;
+    font-weight: bold;
+}
+div{
+    color: white;
+    
+    display: flexbox;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    font-family: sans-serif;
+    font-size: large;
+    
+}
+h1{
+    background-image: url(download.jpg);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    
+}
+.bootstrap{
+    color: white;
+    background-color: rgb(121,82, 179);
+    height: 36px;
+    width: 100px;
+    border: none;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 12px;
+    cursor: pointer;
+    margin-right: 8px;
+}
+.download{
+    color: black;
+    background-color: white;
+    height: 36px;
+    width: 90px;
+    border: 1px solid rgb(108, 117, 125);
+    border-radius: 4px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.linkedin{
+    color: white;
+    background-color: rgb(10, 102, 194);
+    height: 36px;
+    width: 230px;
+    border: none;
+    border-radius: 18px;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    
+}
+.save{
+    color: rgb(10, 102, 194);
+    background-color: white;
+    height: 36px;
+    width: 75px;
+    border-radius: 18px;
+    font-size: 15px;
+    font-weight: bold;
+    border: 2px solid rgb(10, 102,194);
+    cursor: pointer;
+    
+}
